@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ye-lu-lin.github.io/yelulinBlog.github.io</id>
-    <title>叶璐琳的博客</title>
-    <updated>2020-12-26T08:44:51.193Z</updated>
+    <title>yelulinBlog</title>
+    <updated>2020-12-26T08:46:57.802Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://ye-lu-lin.github.io/yelulinBlog.github.io"/>
     <link rel="self" href="https://ye-lu-lin.github.io/yelulinBlog.github.io/atom.xml"/>
     <subtitle>温故而知新</subtitle>
     <logo>https://ye-lu-lin.github.io/yelulinBlog.github.io/images/avatar.png</logo>
     <icon>https://ye-lu-lin.github.io/yelulinBlog.github.io/favicon.ico</icon>
-    <rights>All rights reserved 2020, 叶璐琳的博客</rights>
+    <rights>All rights reserved 2020, yelulinBlog</rights>
     <entry>
         <title type="html"><![CDATA[测试]]></title>
         <id>https://ye-lu-lin.github.io/yelulinBlog.github.io/post/ce-shi/</id>
